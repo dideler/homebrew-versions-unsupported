@@ -4,6 +4,8 @@ These formulae provide multiple versions of existing packages.
 
 Please note this tap is **entirely unsupported** and we make no promises on longevity, security or functionality of the formulae here. You use them at your own risk.
 
+*This tap does not accept new formulae*.
+
 ## How do I install these formulae?
 
 Just `brew tap homebrew/versions-unsupported` and then `brew install <formula>`.
